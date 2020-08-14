@@ -1,0 +1,123 @@
+,Country,index,Continent_Name,Three_Letter_Country_Code,Country_x1
+0,Albania,1,Europe,ALB,Albania
+1,Algeria,3,Africa,DZA,Algeria
+2,Argentina,10,South America,ARG,Argentina
+3,Armenia,17,Asia,ARM,Armenia
+4,Armenia,16,Europe,ARM,Armenia
+5,Australia,11,Oceania,AUS,Australia
+6,Austria,12,Europe,AUT,Austria
+7,Azerbaijan,9,Asia,AZE,Azerbaijan
+8,Azerbaijan,8,Europe,AZE,Azerbaijan
+9,Bahamas,13,North America,BHS,Bahamas
+10,Bahrain,14,Asia,BHR,Bahrain
+11,Bangladesh,15,Asia,BGD,Bangladesh
+12,Belarus,35,Europe,BLR,Belarus
+13,Belgium,19,Europe,BEL,Belgium
+14,Belize,27,North America,BLZ,Belize
+15,Bermuda,20,North America,BMU,Bermuda
+16,Bolivia,22,South America,BOL,Bolivia
+17,Botswana,24,Africa,BWA,Botswana
+18,Brazil,26,South America,BRA,Brazil
+19,Bulgaria,32,Europe,BGR,Bulgaria
+20,Cambodia,36,Asia,KHM,Cambodia
+21,Canada,38,North America,CAN,Canada
+22,Chile,44,South America,CHL,Chile
+23,China,45,Asia,CHN,China
+24,Colombia,49,South America,COL,Colombia
+25,Costa Rica,55,North America,CRI,Costa Rica
+26,Croatia,56,Europe,HRV,Croatia
+27,Cuba,57,North America,CUB,Cuba
+28,Cyprus,58,Europe,CYP,Cyprus
+29,Cyprus,59,Asia,CYP,Cyprus
+30,Czech Republic,60,Europe,CZE,Czech Republic
+31,Denmark,62,Europe,DNK,Denmark
+32,Dominican Republic,64,North America,DOM,Dominican Republic
+33,Ecuador,65,South America,ECU,Ecuador
+34,Egypt,242,Africa,EGY,Egypt
+35,El Salvador,66,North America,SLV,El Salvador
+36,Estonia,70,Europe,EST,Estonia
+37,Ethiopia,68,Africa,ETH,Ethiopia
+38,Fiji,74,Oceania,FJI,Fiji
+39,Finland,75,Europe,FIN,Finland
+40,France,77,Europe,FRA,France
+41,Georgia,84,Asia,GEO,Georgia
+42,Georgia,83,Europe,GEO,Georgia
+43,Germany,87,Europe,DEU,Germany
+44,Ghana,88,Africa,GHA,Ghana
+45,Greece,91,Europe,GRC,Greece
+46,Guatemala,96,North America,GTM,Guatemala
+47,Honduras,102,North America,HND,Honduras
+48,Hong Kong,103,Asia,HKG,Hong Kong
+49,Hungary,104,Europe,HUN,Hungary
+50,Iceland,105,Europe,ISL,Iceland
+51,India,106,Asia,IND,India
+52,Indonesia,107,Asia,IDN,Indonesia
+53,Iran,108,Asia,IRN,Iran
+54,Iraq,109,Asia,IRQ,Iraq
+55,Ireland,110,Europe,IRL,Ireland
+56,Israel,111,Asia,ISR,Israel
+57,Italy,112,Europe,ITA,Italy
+58,Jamaica,114,North America,JAM,Jamaica
+59,Japan,115,Asia,JPN,Japan
+60,Jordan,118,Asia,JOR,Jordan
+61,Kazakhstan,116,Europe,KAZ,Kazakhstan
+62,Kazakhstan,117,Asia,KAZ,Kazakhstan
+63,Kenya,119,Africa,KEN,Kenya
+64,Kuwait,122,Asia,KWT,Kuwait
+65,Latvia,127,Europe,LVA,Latvia
+66,Lebanon,125,Asia,LBN,Lebanon
+67,Lithuania,131,Europe,LTU,Lithuania
+68,Luxembourg,132,Europe,LUX,Luxembourg
+69,Macao,133,Asia,MAC,Macao
+70,Malaysia,136,Asia,MYS,Malaysia
+71,Malta,139,Europe,MLT,Malta
+72,Mauritius,142,Africa,MUS,Mauritius
+73,Mexico,143,North America,MEX,Mexico
+74,Moldova,146,Europe,MDA,Moldova
+75,Mongolia,145,Asia,MNG,Mongolia
+76,Montenegro,147,Europe,MNE,Montenegro
+77,Morocco,149,Africa,MAR,Morocco
+78,Mozambique,150,Africa,MOZ,Mozambique
+79,Myanmar,33,Asia,MMR,Myanmar
+80,Namibia,152,Africa,NAM,Namibia
+81,Nepal,154,Asia,NPL,Nepal
+82,Netherlands,155,Europe,NLD,Netherlands
+83,New Zealand,163,Oceania,NZL,New Zealand
+84,Nicaragua,164,North America,NIC,Nicaragua
+85,Nigeria,166,Africa,NGA,Nigeria
+86,Norway,169,Europe,NOR,Norway
+87,Oman,151,Asia,OMN,Oman
+88,Pakistan,176,Asia,PAK,Pakistan
+89,Panama,177,North America,PAN,Panama
+90,Paraguay,179,South America,PRY,Paraguay
+91,Peru,180,South America,PER,Peru
+92,Philippines,181,Asia,PHL,Philippines
+93,Poland,183,Europe,POL,Poland
+94,Portugal,184,Europe,PRT,Portugal
+95,Puerto Rico,187,North America,PRI,Puerto Rico
+96,Qatar,188,Asia,QAT,Qatar
+97,Romania,190,Europe,ROU,Romania
+98,Saudi Arabia,204,Asia,SAU,Saudi Arabia
+99,Serbia,206,Europe,SRB,Serbia
+100,Singapore,209,Asia,SGP,Singapore
+101,Slovenia,212,Europe,SVN,Slovenia
+102,South Africa,214,Africa,ZAF,South Africa
+103,Spain,216,Europe,ESP,Spain
+104,Sri Lanka,42,Asia,LKA,Sri Lanka
+105,Sweden,223,Europe,SWE,Sweden
+106,Switzerland,224,Europe,CHE,Switzerland
+107,Taiwan,46,Asia,TWN,Taiwan
+108,Tanzania,247,Africa,TZA,Tanzania
+109,Thailand,227,Asia,THA,Thailand
+110,Tunisia,233,Africa,TUN,Tunisia
+111,Turkey,234,Europe,TUR,Turkey
+112,Turkey,235,Asia,TUR,Turkey
+113,Uganda,239,Africa,UGA,Uganda
+114,Ukraine,240,Europe,UKR,Ukraine
+115,United Arab Emirates,232,Asia,ARE,United Arab Emirates
+116,Uruguay,251,South America,URY,Uruguay
+117,Uzbekistan,252,Asia,UZB,Uzbekistan
+118,Venezuela,253,South America,VEN,Venezuela
+119,Vietnam,211,Asia,VNM,Vietnam
+120,Zambia,257,Africa,ZMB,Zambia
+121,Zimbabwe,215,Africa,ZWE,Zimbabwe
