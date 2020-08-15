@@ -1,0 +1,153 @@
+,Unnamed: 0,Name,country,Continent_Name
+0,152,Afghanistan,AFG,Asia
+1,94,Albania,ALB,Europe
+2,67,Algeria,DZA,Africa
+3,29,Argentina,ARG,South America
+4,126,Armenia,ARM,Europe
+5,126,Armenia,ARM,Asia
+6,9,Australia,AUS,Oceania
+7,12,Austria,AUT,Europe
+8,79,Azerbaijan,AZE,Europe
+9,79,Azerbaijan,AZE,Asia
+10,48,Bahrain,BHR,Asia
+11,108,Bangladesh,BGD,Asia
+12,58,Belarus,BLR,Europe
+13,18,Belgium,BEL,Europe
+14,154,Benin,BEN,Africa
+15,78,Bhutan,BTN,Asia
+16,50,Bolivia,BOL,South America
+17,95,Bosnia and Herzegovina,BIH,Europe
+18,127,Botswana,BWA,Africa
+19,15,Brazil,BRA,South America
+20,133,Bulgaria,BGR,Europe
+21,151,Burkina Faso,BFA,Africa
+22,156,Burundi,BDI,Africa
+23,144,Cambodia,KHM,Asia
+24,132,Cameroon,CMR,Africa
+25,4,Canada,CAN,North America
+26,148,Chad,TCD,Africa
+27,26,Chile,CHL,South America
+28,83,China,CHN,Asia
+29,32,Colombia,COL,South America
+30,138,Congo (Brazzaville),COG,Africa
+31,119,Congo (Kinshasa),COG,Africa
+32,11,Costa Rica,CRI,North America
+33,61,Croatia,HRV,Europe
+34,66,Cyprus,CYP,Europe
+35,66,Cyprus,CYP,Asia
+36,30,Czech Republic,CZE,Europe
+37,2,Denmark,DNK,Europe
+38,97,Dominican Republic,DOM,North America
+39,47,Ecuador,ECU,South America
+40,134,Egypt,EGY,Africa
+41,41,El Salvador,SLV,North America
+42,72,Estonia,EST,Europe
+43,121,Ethiopia,ETH,Africa
+44,5,Finland,FIN,Europe
+45,28,France,FRA,Europe
+46,142,Gabon,GAB,Africa
+47,129,Georgia,SGS,Antarctica
+48,25,Germany,DEU,Europe
+49,113,Ghana,GHA,Africa
+50,101,Greece,GRC,Europe
+51,42,Guatemala,GTM,North America
+52,149,Guinea,GNQ,Africa
+53,118,Haiti,HTI,North America
+54,104,Honduras,HND,North America
+55,71,Hong Kong,HKG,Asia
+56,103,Hungary,HUN,Europe
+57,1,Iceland,ISL,Europe
+58,116,India,IOT,Asia
+59,73,Indonesia,IDN,Asia
+60,109,Iran,IRN,Asia
+61,111,Iraq,IRQ,Asia
+62,17,Ireland,IRL,Europe
+63,10,Israel,ISR,Asia
+64,49,Italy,ITA,Europe
+65,150,Ivory Coast,CIV,Africa
+66,64,Jamaica,JAM,North America
+67,45,Japan,JPN,Asia
+68,81,Jordan,JOR,Asia
+69,53,Kazakhstan,KAZ,Europe
+70,53,Kazakhstan,KAZ,Asia
+71,124,Kenya,KEN,Africa
+72,68,Kosovo,XKX,
+73,38,Kuwait,KWT,Asia
+74,76,Kyrgyzstan,KGZ,Asia
+75,88,Latvia,LVA,Europe
+76,102,Lebanon,LBN,Asia
+77,115,Liberia,LBR,Africa
+78,62,Libya,LBY,Africa
+79,55,Lithuania,LTU,Europe
+80,16,Luxembourg,LUX,Europe
+81,146,Madagascar,MDG,Africa
+82,130,Malawi,MWI,Africa
+83,60,Malaysia,MYS,Asia
+84,137,Mali,MLI,Africa
+85,36,Malta,MLT,Europe
+86,123,Mauritania,MRT,Africa
+87,70,Mauritius,MUS,Africa
+88,13,Mexico,MEX,North America
+89,51,Moldova,MDA,Europe
+90,99,Mongolia,MNG,Asia
+91,82,Montenegro,MNE,Europe
+92,91,Morocco,MAR,Africa
+93,128,Myanmar,MMR,Asia
+94,120,Nepal,NPL,Asia
+95,6,Netherlands,NLD,Europe
+96,8,New Zealand,NZL,Oceania
+97,56,Nicaragua,NIC,North America
+98,143,Niger,NER,Africa
+99,77,Nigeria,NGA,Africa
+100,65,North Cyprus,CYP,Europe
+101,65,North Cyprus,CYP,Asia
+102,3,Norway,NOR,Europe
+103,80,Pakistan,PAK,Asia
+104,107,Palestinian Territories,PSE,Asia
+105,24,Panama,PAN,North America
+106,52,Paraguay,PRY,South America
+107,57,Peru,PER,South America
+108,89,Philippines,PHL,Asia
+109,59,Poland,POL,Europe
+110,87,Portugal,PRT,Europe
+111,27,Qatar,QAT,Asia
+112,85,Romania,ROU,Europe
+113,63,Russia,RUS,Europe
+114,63,Russia,RUS,Asia
+115,153,Rwanda,RWA,Africa
+116,34,Saudi Arabia,SAU,Asia
+117,141,Senegal,SEN,Africa
+118,86,Serbia,SRB,Europe
+119,122,Sierra Leone,SLE,Africa
+120,23,Singapore,SGP,Asia
+121,44,Slovakia,SVK,Europe
+122,54,Slovenia,SVN,Europe
+123,112,South Africa,ZAF,Africa
+124,46,South Korea,PRK,Asia
+125,35,Spain,ESP,Europe
+126,131,Sri Lanka,LKA,Asia
+127,7,Sweden,SWE,Europe
+128,0,Switzerland,CHE,Europe
+129,155,Syria,SYR,Asia
+130,37,Taiwan,TWN,Asia
+131,105,Tajikistan,TJK,Asia
+132,145,Tanzania,TZA,Africa
+133,33,Thailand,THA,Asia
+134,157,Togo,TGO,Africa
+135,40,Trinidad and Tobago,TTO,North America
+136,106,Tunisia,TUN,Africa
+137,75,Turkey,TUR,Europe
+138,75,Turkey,TUR,Asia
+139,69,Turkmenistan,TKM,Asia
+140,140,Uganda,UGA,Africa
+141,110,Ukraine,UKR,Europe
+142,20,United Kingdom,GBR,Europe
+143,14,United States,UMI,Oceania
+144,14,United States,UMI,North America
+145,31,Uruguay,URY,South America
+146,43,Uzbekistan,UZB,Asia
+147,22,Venezuela,VEN,South America
+148,74,Vietnam,VNM,Asia
+149,135,Yemen,YEM,Asia
+150,84,Zambia,ZMB,Africa
+151,114,Zimbabwe,ZWE,Africa
