@@ -132,4 +132,4 @@ dmypy.json
 .DS_store
 Icon[]
 api_key.py
-/00_config/api_key.py
+password.py
