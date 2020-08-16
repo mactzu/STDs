@@ -2,9 +2,7 @@
 ===============
 **Project to Summary:**
 
-The aim of this project was to build a database that would allow users to examine the relationship between a country’s happiness, as reported in the world happiness report, and its average cost of living.  We assumed that countries with a higher happiness score would have a higher cost of living, potentially reflecting an inverse association ie happier country = more expensive to live in. 
-
-The end result was a relational database that enables users to query on not only the intersection of both datasets but also on an introduced level of aggregation 
+The aim of this project was to build a database that would allow users to examine the relationship between a country’s happiness, as reported in the world happiness report, and its average cost of living.  We assumed that countries with a higher happiness score would have a higher cost of living, potentially reflecting an inverse association ie happier country = more expensive to live in. The end result a database that enables users to query on the intersection of multiple datasets for further and more detailed analysis.   
 
 ### Prepared By:
 
