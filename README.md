@@ -24,7 +24,7 @@ The aim of this project was to build a database that would allow users to examin
   * 01 (extract) > 02 (transform) > 03 (load) 
   * 02_transform_country.ipynb needs to be run before 02_transform_coli.ipynb and 02_transform_happiness.ipynb
 
-### ELT Diagram**
+### ELT Diagram
   ![](STD_ETL_diag.png)
 
 **Git Repository Map:**
