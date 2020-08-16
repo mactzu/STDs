@@ -1,0 +1,8 @@
+splinter
+webdriver-manager
+beautifulsoup4
+pandas
+numpy
+kaggle
+sqlalchemy
+sqlalchemy_utils
