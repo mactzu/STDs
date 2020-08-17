@@ -2,4 +2,4 @@
 username="postgres"
 
 #postgreSQL password
-password="YOURPASSWORD"
+password="hosshoss69"
