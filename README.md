@@ -32,7 +32,7 @@ Notebooks should be run in the following order
 
 **Git Repository Map:**
 
-| Diretory | Description | From Notebook(s)
+| Directory | Description | From Notebook(s)
 | --------  | ------------------- | ------------------- | 
 | 00_config | Python and Text file to locally store API Keys and Passwords |  |
 | 01_extract_Coli| Files extracted by scraping Cost of Living Data source| 01_extract_coli.ipynb |
