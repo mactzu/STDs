@@ -17,12 +17,15 @@ The aim of this project was to build a database that would allow users to examin
 
 ### Dependencies:
 * Python version 3.x (minimum)
-* Python modules listed in *00_config/requirements.txt*. If you have PIP, use ***pip install -r requirements.txt*** to install listed modules.
+* Dependant Python modules are listed in *00_config/requirements.txt*. if installation or confirmation is required run the follow command from terminal/gitbash
+ ***pip install -r requirements.txt***.
 * A kaggle account, and an ‘api_key.py’ file containing your kaggle username and a user-specific kaggle api key (refer to https://github.com/Kaggle/kaggle-api). This is needed to be able to interact with the kaggle api to extract their dataset. A template ‘api_key_template.py’ file is available in the ‘00_config’ folder. Populate it with your username and api key, rename it to ‘api_key.py’, and move it into the root folder.
 * postgreSQL, with a ‘password.py’ file containing your password. A template ‘password_template.py’ file is available in the ‘00_config’ folder. Populate it with your postgreSQL username and password (default username is ‘postgres’), rename it to ‘password.py’, and move it into the root folder.
-* Code should be run in the order of:
+
+### Code Execution:
+Notebooks should be run in the following order 
   * 01 (extract) > 02 (transform) > 03 (load) 
-  * 02_transform_country.ipynb needs to be run before 02_transform_coli.ipynb and 02_transform_happiness.ipynb
+  * 02_transform_country.ipynb > either of 02_transform_coli.ipynb and 02_transform_happiness.ipynb
 
 ### ELT Diagram
   ![](STD_ETL_diag.png)
