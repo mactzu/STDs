@@ -1,5 +1,5 @@
 # kaggle username
-username = "YOURUSERNAME"
+username = "mactzu"
 
 # kaggle api key
-key = "YOURAPIKEY"
+key = "edc89c301b53da8c5dc5cb676c8d11f8"
