@@ -38,9 +38,9 @@ Notebooks should be run in the following order
 | 01_extract_Coli| Files extracted by scraping Cost of Living Data source| 01_extract_coli.ipynb |
 | 01_extract_country | Files extracted by scraping country data|01_extract_country.ipynb | 
 | 01_extract_happiness | Files extracted by scraping and unziped from Kaggle | 01_extract_happiness.ipynb| 
-| 02_transform_coli | Cleaned CSV Files  | 02_transform_coli.ipynb| 
-| 02_transform_country | Cleaned CSV Files | 02_transform_country.ipynb| 
-| 02_transform_happiness | Cleaned CSV Files | 02_transform_happiness.ipynb | 
+| 02_transform_coli | Cost of Living Cleaned CSV Files  | 02_transform_coli.ipynb| 
+| 02_transform_country | Country Names/Code Cleaned CSV Files | 02_transform_country.ipynb| 
+| 02_transform_happiness | Happiness Index Cleaned CSV Files | 02_transform_happiness.ipynb | 
 | 03_load | Contains our Entity Relationship Diagram, code for loading our database in notebook | 03_load.ipynb | 
 | 04_results | Result SQL queries and output CSVs  |  | 
 | report | Contains report Document  |  | 
