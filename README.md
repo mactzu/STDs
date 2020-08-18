@@ -37,7 +37,7 @@ Notebooks should be run in the following order
 | 00_config | Python and Text file to locally store API Keys and Passwords |  |
 | 01_extract_Coli| Files extracted by scraping Cost of Living Data source| 01_extract_coli.ipynb |
 | 01_extract_country | Files extracted by scraping country data|01_extract_country.ipynb | 
-| 01_extract_happiness | Files extracted by scraping and unziping from Kaggle | 01_extract_happiness.ipynb| 
+| 01_extract_happiness | Files extracted by scraping and unziped from Kaggle | 01_extract_happiness.ipynb| 
 | 02_transform_coli | Cleaned CSV Files  | 02_transform_coli.ipynb| 
 | 02_transform_country | Cleaned CSV Files | 02_transform_country.ipynb| 
 | 02_transform_happiness | Cleaned CSV Files | 02_transform_happiness.ipynb | 
