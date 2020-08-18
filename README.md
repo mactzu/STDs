@@ -29,16 +29,18 @@ The aim of this project was to build a database that would allow users to examin
 
 **Git Repository Map:**
 
-| Phase | Description| NotesBooks and Relates Directors  |
-| --------  | ------------------- | --------------------- |
-| Extract | **Country and Continent Data**| "01_extract_country.ipynb" -> /01_extract_country **CSV**| 
-| Extract | **Cost of Living Expense & Property Prices**| "01_extract_coli.ipynb" -> /01_extract_coli **CSVs by year**| 
-| Extract | **World Happy Data** | "01_extract_happiness.ipynb" -> /01_extract_happiness  **CSVs by year**| 
-| Transform | **Country and Continent Data Cleaning** | "02_transform_country.ipynb" -> 02_transform_country.ipynb **cleaned CSV**| 
-| Transform | **Cost of Living Data Cleaning** | "02_transform_coli.ipynb" -> 02_transform_coli.ipynb **cleaned CSV**| 
-| Transform | **World Happy Data Cleaning** | "01_extract_happiness.ipynb" -> /01_extract_happiness **cleaned CSV**| 
-| Load | **Entity Relationship Diagram** | "erd.png" -> /03_load | 
-| Load | **Create postgreSQL Database and Import Data** | "03_load.ipynb" | 
+| Diretory | Description | From Notebook(s)
+| --------  | ------------------- | ------------------- | 
+| 00_config | Python and Text file to locally store API Keys and Passwords |  |
+| 01_extract_Coli| Files extracted by scraping Cost of Living Data source| 01_extract_coli.ipynb |
+| 01_extract_country | Files extracted by scraping country data|01_extract_country.ipynb | 
+| 01_extract_happiness | Files extracted by scraping and unziping from Kaggle | 01_extract_happiness.ipynb| 
+| 02_transform_coli | Cleaned CSV Files  | 02_transform_coli.ipynb| 
+| 02_transform_country | Cleaned CSV Files | 02_transform_country.ipynb| 
+| 02_transform_happiness | Cleaned CSV Files | 02_transform_happiness.ipynb | 
+| 03_load | Contains our Entity Relationship Diagram, code for loading our database in notebook | 03_load.ipynb | 
+| 04_results | Result SQL queries and output CSVs  |  | 
+| report | Contains report Document  |  | 
 
 
   
